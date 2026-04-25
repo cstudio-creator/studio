@@ -1,0 +1,17 @@
+studio-language-manual-publication-date-renaming.-25-april-2026.
+
+STUDIO — LANGUAGE MANUAL  
+Publication & Rename Record
+
+Original upload:
+20 February 2026  
+Commit: Add files via upload
+
+Canonical rename:
+25 April 2026  
+File renamed to: language-manual.docx
+
+Notes:
+This file records the provenance of the language manual within the Studio node.
+The original upload date and the rename date are preserved in GitHub’s commit
+history. This text file serves as an external, human-readable confirmation.
