@@ -42,7 +42,7 @@ diagram-0.1
              ↓
 
 
-             ↓                    →         Basic Feeling, (continued).
+             ↓                             Basic Feeling, (continued).
 
                                                                   ↓
              ↓
@@ -59,3 +59,33 @@ diagram-0.1
                                                     
 
                                                                
+                                            Nouns → Gerunds → Logic Words.
+                                            Nouns and Gerunds can use the same Name.  E.G. "Chair" is a Noun when     
+                                            describing a chair you sit on and Gerund describing E.G. the "Chair" 
+                                            of a Board of a meeting one attends.
+                                            
+
+
+                                            Logic Words - Logic Words and Gerunds are different.  Both Logic Words                   
+                                            and Gerunds are in the Dynamic Filter Logic Words and both are Feeling-        
+                                            Logic Words but a Logic Word in the Dynamic Filter Logic Words can not
+                                            have a Noun Name, only a Gerund can have a Noun Name and be Logic.
+
+                                            
+                                            All Nouns can be Gerunds and as Gerunds are Logic all Nouns can be        
+                                            Logic.  
+                                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
